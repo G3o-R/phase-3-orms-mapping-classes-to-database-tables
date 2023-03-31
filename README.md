@@ -563,3 +563,5 @@ it has little sprinkles on it. Those aspects are captured in the picture, but
 the cookie and the picture are still two different things. After you eat the
 cookie, or in our case after you delete the Ruby object, the database will not
 change at all until the record is deleted, and vice versa.
+
+https://github.com/G3o-R/phase-3-orms-mapping-classes-to-database-tables
